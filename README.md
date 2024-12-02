@@ -1,2 +1,2 @@
-# UW-GS-Distractor-Aware-3D-Gaussian-Splatting-for-Enhanced-Underwater-Scene-Reconstruction
+# UW-GS
 Accepted by WACV2025. The code is coming soon
